@@ -1,4 +1,4 @@
-# sdw3-client-js
+# Example-client-js
 
 ## Project setup
 ```
